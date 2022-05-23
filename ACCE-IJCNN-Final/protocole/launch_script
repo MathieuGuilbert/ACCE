@@ -1,0 +1,4 @@
+#!/bin/bash
+# This script install the necessary libraries
+
+python3.6 pythonScript.py

@@ -1,0 +1,33 @@
+Base partitions
+ARI analysis: Mean=0.275 ,Median=0.275 ,Min=0.271 ,Max=0.28 ,Standard Deviation=0.003
+
+default Kmeans
+ARI analysis: Mean=0.409 ,Median=0.413 ,Min=0.39 ,Max=0.416 ,Standard Deviation=0.01
+
+Unconstrained Baseline
+ARI analysis: Mean=0.787 ,Median=0.763 ,Min=0.727 ,Max=0.904 ,Standard Deviation=0.061
+
+Constrained Baseline
+ARI analysis: Mean=0.861 ,Median=0.872 ,Min=0.742 ,Max=0.971 ,Standard Deviation=0.073
+
+default COPKmeans
+ARI analysis: Mean=0.387 ,Median=0.383 ,Min=0.352 ,Max=0.437 ,Standard Deviation=0.025
+
+COPKmeans Baseline
+ARI analysis: Mean=0.847 ,Median=0.854 ,Min=0.71 ,Max=0.97 ,Standard Deviation=0.064
+
+COPKmeans Gurobi
+ARI analysis: Mean=0.714 ,Median=0.731 ,Min=0.493 ,Max=0.903 ,Standard Deviation=0.095
+
+ACCE-ILP local-COPKmeans
+ARI analysis: Mean=0.836 ,Median=0.839 ,Min=0.702 ,Max=0.96 ,Standard Deviation=0.064
+
+ACCE-ILP local Kmeans
+ARI analysis: Mean=0.776 ,Median=0.752 ,Min=0.715 ,Max=0.893 ,Standard Deviation=0.06
+
+mzn2
+ARI analysis: Mean=0.098 ,Median=0.046 ,Min=-0.001 ,Max=0.273 ,Standard Deviation=0.097
+
+mzn2 eucl
+ARI analysis: Mean=0.074 ,Median=0.009 ,Min=0.006 ,Max=0.506 ,Standard Deviation=0.151
+

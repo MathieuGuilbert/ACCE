@@ -1,0 +1,8 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Q1 & Q3 & Standard deviation \\ \hline\hline 
+ \textbf{ILP-Km25} & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{0.0}   \\ \hline 
+ \textbf{ILP-Km10} & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{0.0}   \\ \hline 
+ \textbf{ILP-Km5} & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{100.0}  & \textbf{0.0}   \\ \hline 
+\end{tabular}
+\end{table}

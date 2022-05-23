@@ -1,0 +1,14 @@
+utilities.py :
+
+l196-197:
+	#from sklearn.utils.linear_assignment_ import linear_assignment #Does not exist in recent versions, but I found an equivalent
+	from scipy.optimize import linear_sum_assignment as linear_assignment
+
+pw_cize_il.py :
+
+l111:
+	def run-modified_model-n,k,pnml,cp,label)
+
+l179:
+	def exMain():
+	#I put in it all that was not in a function by default.

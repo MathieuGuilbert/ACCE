@@ -1,0 +1,16 @@
+-- Anchors details --
+
+H= 50
+final number of anchors: 14
+
+Default partition with H clusters: 
+[ 0  0  0 ... 48 48 48]
+Updated partition (where clusters with only one element have been merged with their closest neighbor): 
+[ 0  0  0 ... 48 48 48]
+Anchors ID: 
+[8, 142, 1350, 1722, 314, 420, 479, 480, 639, 714, 1964, 2539, 2914, 2875, 519]
+Anchors position: 
+[[674.821, 315.093], [166.321, 342.129], [43.668, 291.399], [300.303, 404.822], [488.985, 46.419], [428.855, 108.992], [475.063, 162.051], [505.503, 162.45], [514.639, 216.942], [71.813, 138.206], [126.801, 68.228], [566.779, 270.141], [534.138, 427.444], [656.796, 416.111]]
+
+Partition with K clusters: 
+[6 6 6 ... 2 2 2]

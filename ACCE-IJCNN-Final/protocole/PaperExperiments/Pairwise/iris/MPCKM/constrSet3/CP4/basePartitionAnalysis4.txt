@@ -1,0 +1,38 @@
+Analysis of all the base partition
+Total number of base partition:5
+
+Base partition 0: Mean=0.565, Median=0.508,  Min=0.404, Max=0.922, Standard Deviation=0.161
+
+Verified constraints in BP0: Mean=97.68, Median=98.0,  Min=88.0, Max=100.0, Standard Deviation=2.694
+
+K inducing the minimum ARI (0.404): [9] with constraint satisfaction percentage of: [100.0] 
+K inducing the maximum ARI (0.922): [3] with constraint satisfaction percentage of: [100.0] 
+
+Base partition 1: Mean=0.547, Median=0.496,  Min=0.399, Max=0.922, Standard Deviation=0.149
+
+Verified constraints in BP1: Mean=97.56, Median=98.0,  Min=90.0, Max=100.0, Standard Deviation=2.128
+
+K inducing the minimum ARI (0.399): [12] with constraint satisfaction percentage of: [98.0] 
+K inducing the maximum ARI (0.922): [3] with constraint satisfaction percentage of: [100.0] 
+
+Base partition 2: Mean=0.557, Median=0.472,  Min=0.403, Max=0.922, Standard Deviation=0.166
+
+Verified constraints in BP2: Mean=97.64, Median=98.0,  Min=92.0, Max=100.0, Standard Deviation=2.322
+
+K inducing the minimum ARI (0.403): [8] with constraint satisfaction percentage of: [96.0] 
+K inducing the maximum ARI (0.922): [3] with constraint satisfaction percentage of: [100.0] 
+
+Base partition 3: Mean=0.537, Median=0.448,  Min=0.406, Max=0.922, Standard Deviation=0.162
+
+Verified constraints in BP3: Mean=97.76, Median=98.0,  Min=94.0, Max=100.0, Standard Deviation=1.903
+
+K inducing the minimum ARI (0.406): [12] with constraint satisfaction percentage of: [98.0] 
+K inducing the maximum ARI (0.922): [3] with constraint satisfaction percentage of: [100.0] 
+
+Base partition 4: Mean=0.508, Median=0.452,  Min=0.394, Max=0.922, Standard Deviation=0.127
+
+Verified constraints in BP4: Mean=97.44, Median=98.0,  Min=92.0, Max=100.0, Standard Deviation=2.229
+
+K inducing the minimum ARI (0.394): [9] with constraint satisfaction percentage of: [94.0] 
+K inducing the maximum ARI (0.922): [3] with constraint satisfaction percentage of: [100.0] 
+

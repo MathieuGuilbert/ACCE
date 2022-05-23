@@ -1,0 +1,6 @@
+Kmeans
+ARI analysis: Mean=97.8 ,Median=97.8 ,Min=97.8 ,Max=97.8 ,Q1=97.8 ,Q2=97.8 ,Standard Deviation=0.0
+
+EAC
+ARI analysis: Mean=98.6 ,Median=98.6 ,Min=98.6 ,Max=98.6 ,Q1=98.6 ,Q2=98.6 ,Standard Deviation=0.0
+

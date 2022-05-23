@@ -1,0 +1,18 @@
+ILP-Km25
+ARI analysis: Mean=1.0 ,Median=1.0 ,Min=1.0 ,Max=1.0 ,Q1=1.0 ,Q2=1.0 ,Standard Deviation=1.0
+
+ILP-COP25
+ARI analysis: Mean=0.571 ,Median=0.902 ,Min=-0.001 ,Max=0.96 ,Q1=0.081 ,Q2=0.921 ,Standard Deviation=0.081
+
+ILP-Km10
+ARI analysis: Mean=1.0 ,Median=1.0 ,Min=1.0 ,Max=1.0 ,Q1=1.0 ,Q2=1.0 ,Standard Deviation=1.0
+
+ILP-COP10
+ARI analysis: Mean=0.559 ,Median=0.864 ,Min=0.004 ,Max=0.921 ,Q1=0.063 ,Q2=0.864 ,Standard Deviation=0.063
+
+ILP-Km5
+ARI analysis: Mean=0.933 ,Median=0.921 ,Min=0.921 ,Max=0.96 ,Q1=0.921 ,Q2=0.941 ,Standard Deviation=0.921
+
+ILP-COP5
+ARI analysis: Mean=0.41 ,Median=0.575 ,Min=0.0 ,Max=0.738 ,Q1=0.082 ,Q2=0.721 ,Standard Deviation=0.082
+

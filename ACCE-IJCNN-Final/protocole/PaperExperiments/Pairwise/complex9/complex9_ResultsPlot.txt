@@ -1,0 +1,30 @@
+\begin{tikzpicture}[scale=0.57]
+    \begin{axis}[
+        title=complex9 ARI, 
+        symbolic x coords={BP Km., Kmeans, EAC, Constr EAC, COP, COP EAC, ILP-COP4, ILP-Km4, CP2},
+        xtick=data, ymin=0,ymax=1.05,bar width=15pt,height=6cm ,width=20cm 
+      ]
+        \addplot[ybar,fill=blue] coordinates {
+            (BP Km, 0.276)
+            (Kmeans, 0.408)
+            (EAC, 0.751)
+            (Constr EAC, 0.837)
+            (COP, 0.392)
+            (COP EAC, 0.873)
+            (ILP-Km25, 0.0)
+            (ILP-COP25, 0.0)
+            (ILP-Km10, 0.0)
+            (ILP-COP10, 0.0)
+            (ILP-Km5, 0.0)
+            (ILP-COP5, 0.0)
+      };
+        \addplot[ybar,fill=red] coordinates {
+            (ILP-Km25, 0.748)
+            (ILP-COP25, 0.871)
+            (ILP-Km10, 0.747)
+            (ILP-COP10, 0.866)
+            (ILP-Km5, 0.734)
+            (ILP-COP5, 0.85)
+      };
+   \end{axis}
+\end{tikzpicture}

@@ -1,0 +1,11 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Q1 & Q3 & Standard deviation \\ \hline\hline 
+ BP Km & 0.486  & 0.482  & 0.456  & 0.516  & 0.471  & 0.502  & 0.019   \\ \hline 
+ \textbf{Kmeans} & \textbf{0.73}  & \textbf{0.73}  & \textbf{0.73}  & \textbf{0.73}  & \textbf{0.73}  & \textbf{0.73}  & \textbf{0.0}   \\ \hline 
+ EAC & 0.574  & 0.566  & 0.566  & 0.642  & 0.566  & 0.566  & 0.023   \\ \hline 
+ Constr EAC & 0.564  & 0.566  & 0.561  & 0.566  & 0.562  & 0.566  & 0.002   \\ \hline 
+ \textbf{COP} & \textbf{0.734}  & \textbf{0.736}  & \textbf{0.714}  & \textbf{0.744}  & \textbf{0.728}  & \textbf{0.743}  & \textbf{0.01}   \\ \hline 
+ COP EAC & 0.601  & 0.566  & 0.561  & 0.904  & 0.564  & 0.642  & 0.059   \\ \hline 
+\end{tabular}
+\end{table}

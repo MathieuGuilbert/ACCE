@@ -1,0 +1,4 @@
+Analysis of all the consensus partition
+
+Consensus partition ARI analysis: Mean=0.746 ,Median=0.743 ,Min=0.613 ,Max=0.828 ,Standard Deviation=0.048
+Consensus partition MinSplit analysis: ,Mean=0.017 ,Median=0.0 ,Min=0 ,Max=0.18 ,Standard Deviation=0.051

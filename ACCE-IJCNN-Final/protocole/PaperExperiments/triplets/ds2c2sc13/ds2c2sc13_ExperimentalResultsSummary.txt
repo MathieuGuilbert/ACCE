@@ -1,0 +1,9 @@
+ILP-Km25
+ARI analysis: Mean=0.587 ,Median=0.584 ,Min=0.539 ,Max=0.634 ,Q1=0.569 ,Q2=0.613 ,Standard Deviation=0.569
+
+ILP-Km10
+ARI analysis: Mean=0.578 ,Median=0.578 ,Min=0.531 ,Max=0.621 ,Q1=0.559 ,Q2=0.599 ,Standard Deviation=0.559
+
+ILP-Km5
+ARI analysis: Mean=0.571 ,Median=0.57 ,Min=0.511 ,Max=0.629 ,Q1=0.552 ,Q2=0.593 ,Standard Deviation=0.552
+

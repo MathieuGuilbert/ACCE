@@ -1,0 +1,30 @@
+\begin{tikzpicture}[scale=0.57]
+    \begin{axis}[
+        title=iris ARI, 
+        symbolic x coords={BP Km., Kmeans, EAC, Constr EAC, COP, COP EAC, ILP-COP4, ILP-Km4, CP2},
+        xtick=data, ymin=0,ymax=1.05,bar width=15pt,height=6cm ,width=20cm 
+      ]
+        \addplot[ybar,fill=blue] coordinates {
+            (BP Km, 0.486)
+            (Kmeans, 0.73)
+            (EAC, 0.574)
+            (Constr EAC, 0.564)
+            (COP, 0.734)
+            (COP EAC, 0.601)
+            (ILP-Km25, 0.0)
+            (ILP-COP25, 0.0)
+            (ILP-Km10, 0.0)
+            (ILP-COP10, 0.0)
+            (ILP-Km5, 0.0)
+            (ILP-COP5, 0.0)
+      };
+        \addplot[ybar,fill=red] coordinates {
+            (ILP-Km25, 0.587)
+            (ILP-COP25, 0.598)
+            (ILP-Km10, 0.594)
+            (ILP-COP10, 0.585)
+            (ILP-Km5, 0.599)
+            (ILP-COP5, 0.669)
+      };
+   \end{axis}
+\end{tikzpicture}

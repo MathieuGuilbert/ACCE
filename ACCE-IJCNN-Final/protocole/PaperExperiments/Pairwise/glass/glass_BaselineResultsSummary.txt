@@ -1,0 +1,18 @@
+BP Km
+ARI analysis: Mean=0.228 ,Median=0.228 ,Min=0.219 ,Max=0.237 ,Q1=0.223 ,Q2=0.232 ,Standard Deviation=0.006
+
+Kmeans
+ARI analysis: Mean=0.243 ,Median=0.24 ,Min=0.206 ,Max=0.285 ,Q1=0.216 ,Q2=0.275 ,Standard Deviation=0.031
+
+EAC
+ARI analysis: Mean=0.259 ,Median=0.259 ,Min=0.243 ,Max=0.301 ,Q1=0.245 ,Q2=0.261 ,Standard Deviation=0.016
+
+Constr EAC
+ARI analysis: Mean=0.217 ,Median=0.233 ,Min=0.045 ,Max=0.25 ,Q1=0.222 ,Q2=0.244 ,Standard Deviation=0.054
+
+COP
+ARI analysis: Mean=0.235 ,Median=0.235 ,Min=0.176 ,Max=0.272 ,Q1=0.228 ,Q2=0.25 ,Standard Deviation=0.022
+
+COP EAC
+ARI analysis: Mean=0.245 ,Median=0.247 ,Min=0.059 ,Max=0.303 ,Q1=0.238 ,Q2=0.258 ,Standard Deviation=0.046
+

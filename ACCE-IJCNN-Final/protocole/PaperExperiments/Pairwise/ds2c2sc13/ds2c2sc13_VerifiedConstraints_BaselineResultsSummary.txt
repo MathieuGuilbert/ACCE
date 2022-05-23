@@ -1,0 +1,12 @@
+Kmeans
+ARI analysis: Mean=93.84 ,Median=93.8 ,Min=92.8 ,Max=94.4 ,Q1=93.6 ,Q2=94.3 ,Standard Deviation=0.48
+
+EAC
+ARI analysis: Mean=93.88 ,Median=93.6 ,Min=92.4 ,Max=95.2 ,Q1=93.3 ,Q2=94.4 ,Standard Deviation=0.859
+
+Constr EAC
+ARI analysis: Mean=95.08 ,Median=94.0 ,Min=90.0 ,Max=100.0 ,Q1=94.0 ,Q2=97.5 ,Standard Deviation=2.599
+
+COP EAC
+ARI analysis: Mean=98.72 ,Median=99.0 ,Min=94.0 ,Max=100.0 ,Q1=98.0 ,Q2=100.0 ,Standard Deviation=1.484
+

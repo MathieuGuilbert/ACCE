@@ -1,0 +1,11 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Q1 & Q3 & Standard deviation \\ \hline\hline 
+ ILP-Km25 & 0.748  & 0.754  & 0.644  & 0.83  & 0.702  & 0.807  & 0.06   \\ \hline 
+ \textbf{ILP-COP25} & \textbf{0.871}  & \textbf{0.89}  & \textbf{0.761}  & \textbf{0.975}  & \textbf{0.832}  & \textbf{0.903}  & \textbf{0.053}   \\ \hline 
+ ILP-Km10 & 0.747  & 0.752  & 0.643  & 0.828  & 0.698  & 0.804  & 0.06   \\ \hline 
+ \textbf{ILP-COP10} & \textbf{0.866}  & \textbf{0.881}  & \textbf{0.762}  & \textbf{0.972}  & \textbf{0.828}  & \textbf{0.9}  & \textbf{0.052}   \\ \hline 
+ ILP-Km5 & 0.734  & 0.738  & 0.633  & 0.81  & 0.69  & 0.784  & 0.057   \\ \hline 
+ ILP-COP5 & 0.85  & 0.858  & 0.744  & 0.954  & 0.807  & 0.886  & 0.052   \\ \hline 
+\end{tabular}
+\end{table}

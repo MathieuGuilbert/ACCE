@@ -1,0 +1,8 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Standard deviation \\ \hline\hline 
+ BP. Km. & 0.232  & 0.232  & 0.23  & 0.233  & 0.001   \\ \hline 
+ \textbf{default Kmeans} & \textbf{0.252}  & \textbf{0.266}  & \textbf{0.215}  & \textbf{0.288}  & \textbf{0.031}   \\ \hline 
+ \textbf{Unconstrained Baseline} & \textbf{0.248}  & \textbf{0.243}  & \textbf{0.243}  & \textbf{0.259}  & \textbf{0.008}   \\ \hline 
+\end{tabular}
+\end{table}

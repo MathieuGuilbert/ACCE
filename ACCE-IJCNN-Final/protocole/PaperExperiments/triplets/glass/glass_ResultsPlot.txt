@@ -1,0 +1,21 @@
+\begin{tikzpicture}[scale=0.57]
+    \begin{axis}[
+        title=glass ARI, 
+        symbolic x coords={BP Km., Kmeans, EAC, Constr EAC, COP, COP EAC, ILP-COP4, ILP-Km4, CP2},
+        xtick=data, ymin=0,ymax=1.05,bar width=15pt,height=6cm ,width=20cm 
+      ]
+        \addplot[ybar,fill=blue] coordinates {
+            (BP Km, 0.23)
+            (Kmeans, 0.26)
+            (EAC, 0.268)
+            (ILP-Km25, 0.0)
+            (ILP-Km10, 0.0)
+            (ILP-Km5, 0.0)
+      };
+        \addplot[ybar,fill=red] coordinates {
+            (ILP-Km25, 0.259)
+            (ILP-Km10, 0.237)
+            (ILP-Km5, 0.251)
+      };
+   \end{axis}
+\end{tikzpicture}

@@ -1,0 +1,4 @@
+Analysis of all the base partition sets
+
+Base partition 0:  Min=0.362, Max=0.941, Mean=0.541, Median=0.47, Standard Deviation=0.161
+Base partition 1:  Min=0.346, Max=0.904, Mean=0.491, Median=0.444, Standard Deviation=0.132

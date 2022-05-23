@@ -1,0 +1,9 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Q1 & Q3 & Standard deviation \\ \hline\hline 
+ Kmeans & 84.95  & 85.0  & 84.5  & 85.5  & 84.625  & 85.0  & 0.35   \\ \hline 
+ EAC & 93.6  & 94.0  & 91.0  & 95.5  & 92.5  & 94.875  & 1.562   \\ \hline 
+ Constr EAC & 96.2  & 98.0  & 90.0  & 100.0  & 94.0  & 98.0  & 2.522   \\ \hline 
+ \textbf{COP EAC} & \textbf{98.2}  & \textbf{98.0}  & \textbf{94.0}  & \textbf{100.0}  & \textbf{98.0}  & \textbf{100.0}  & \textbf{1.778}   \\ \hline 
+\end{tabular}
+\end{table}

@@ -1,0 +1,7 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Q1 & Q3 & Standard deviation \\ \hline\hline 
+ Kmeans & 99.76  & 99.7  & 99.4  & 100.0  & 99.6  & 100.0  & 0.215   \\ \hline 
+ \textbf{EAC} & \textbf{99.82}  & \textbf{99.8}  & \textbf{99.6}  & \textbf{100.0}  & \textbf{99.8}  & \textbf{99.95}  & \textbf{0.14}   \\ \hline 
+\end{tabular}
+\end{table}

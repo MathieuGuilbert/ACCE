@@ -1,0 +1,16 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Standard deviation \\ \hline\hline 
+ Base partitions & 0.275  & 0.275  & 0.271  & 0.28  & 0.003   \\ \hline 
+ default Kmeans & 0.409  & 0.413  & 0.39  & 0.416  & 0.01   \\ \hline 
+ Unconstrained Baseline & 0.787  & 0.763  & 0.727  & 0.904  & 0.061   \\ \hline 
+ \textbf{Constrained Baseline} & \textbf{0.861}  & \textbf{0.872}  & \textbf{0.742}  & \textbf{0.971}  & \textbf{0.073}   \\ \hline 
+ default COPKmeans & 0.387  & 0.383  & 0.352  & 0.437  & 0.025   \\ \hline 
+ COPKmeans Baseline & 0.847  & 0.854  & 0.71  & 0.97  & 0.064   \\ \hline 
+ COPKmeans Gurobi & 0.714  & 0.731  & 0.493  & 0.903  & 0.095   \\ \hline 
+ ACCE-ILP local-COPKmeans & 0.836  & 0.839  & 0.702  & 0.96  & 0.064   \\ \hline 
+ ACCE-ILP local Kmeans & 0.776  & 0.752  & 0.715  & 0.893  & 0.06   \\ \hline 
+ mzn2 & 0.098  & 0.046  & -0.001  & 0.273  & 0.097   \\ \hline 
+ mzn2 eucl & 0.074  & 0.009  & 0.006  & 0.506  & 0.151   \\ \hline 
+\end{tabular}
+\end{table}

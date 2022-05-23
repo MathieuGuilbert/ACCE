@@ -1,0 +1,53 @@
+Analysis of all the base partition
+Total number of base partition:10
+
+Base partition 0: Mean=0.223, Median=0.219,  Min=0.19, Max=0.323, Standard Deviation=0.025
+
+K inducing the minimum (0.19): [10] 
+K inducing the maximum (0.323): [3] 
+
+Base partition 1: Mean=0.228, Median=0.223,  Min=0.175, Max=0.323, Standard Deviation=0.029
+
+K inducing the minimum (0.175): [14] 
+K inducing the maximum (0.323): [3] 
+
+Base partition 2: Mean=0.223, Median=0.214,  Min=0.177, Max=0.321, Standard Deviation=0.029
+
+K inducing the minimum (0.177): [8] 
+K inducing the maximum (0.321): [4] 
+
+Base partition 3: Mean=0.222, Median=0.222,  Min=0.187, Max=0.288, Standard Deviation=0.021
+
+K inducing the minimum (0.187): [6] 
+K inducing the maximum (0.288): [5] 
+
+Base partition 4: Mean=0.222, Median=0.213,  Min=0.179, Max=0.323, Standard Deviation=0.03
+
+K inducing the minimum (0.179): [13] 
+K inducing the maximum (0.323): [3] 
+
+Base partition 5: Mean=0.22, Median=0.215,  Min=0.181, Max=0.287, Standard Deviation=0.023
+
+K inducing the minimum (0.181): [9] 
+K inducing the maximum (0.287): [8] 
+
+Base partition 6: Mean=0.225, Median=0.225,  Min=0.183, Max=0.323, Standard Deviation=0.024
+
+K inducing the minimum (0.183): [13] 
+K inducing the maximum (0.323): [3] 
+
+Base partition 7: Mean=0.227, Median=0.22,  Min=0.183, Max=0.323, Standard Deviation=0.029
+
+K inducing the minimum (0.183): [5] 
+K inducing the maximum (0.323): [3] 
+
+Base partition 8: Mean=0.228, Median=0.225,  Min=0.187, Max=0.323, Standard Deviation=0.029
+
+K inducing the minimum (0.187): [10] 
+K inducing the maximum (0.323): [3] 
+
+Base partition 9: Mean=0.23, Median=0.222,  Min=0.184, Max=0.318, Standard Deviation=0.03
+
+K inducing the minimum (0.184): [9] 
+K inducing the maximum (0.318): [4] 
+

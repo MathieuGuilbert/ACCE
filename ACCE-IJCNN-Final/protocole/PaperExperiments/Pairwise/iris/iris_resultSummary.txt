@@ -1,0 +1,9 @@
+BP. Km.
+ARI analysis: Mean=0.49 ,Median=0.494 ,Min=0.474 ,Max=0.501 ,Standard Deviation=0.011
+
+default Kmeans
+ARI analysis: Mean=0.73 ,Median=0.73 ,Min=0.73 ,Max=0.73 ,Standard Deviation=0.0
+
+Unconstrained Baseline
+ARI analysis: Mean=0.566 ,Median=0.566 ,Min=0.566 ,Max=0.566 ,Standard Deviation=0.0
+

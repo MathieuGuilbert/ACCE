@@ -1,0 +1,8 @@
+\begin{table}[h] 
+\begin{tabular}{l|l|l|l|l|l} 
+Method                 & Mean & Median & Min & Max & Q1 & Q3 & Standard deviation \\ \hline\hline 
+ BP Km & 0.516  & 0.518  & 0.494  & 0.532  & 0.511  & 0.521  & 0.01   \\ \hline 
+ Kmeans & 0.551  & 0.55  & 0.508  & 0.587  & 0.531  & 0.569  & 0.026   \\ \hline 
+ \textbf{EAC} & \textbf{0.591}  & \textbf{0.587}  & \textbf{0.539}  & \textbf{0.641}  & \textbf{0.571}  & \textbf{0.615}  & \textbf{0.032}   \\ \hline 
+\end{tabular}
+\end{table}

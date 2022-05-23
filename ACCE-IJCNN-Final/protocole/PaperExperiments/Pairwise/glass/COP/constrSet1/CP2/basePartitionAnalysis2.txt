@@ -1,0 +1,18 @@
+Analysis of all the base partition
+Total number of base partition:3
+
+Base partition 0: Mean=0.235, Median=0.235,  Min=0.164, Max=0.273, Standard Deviation=0.023
+
+K inducing the minimum (0.164): [4] 
+K inducing the maximum (0.273): [14] 
+
+Base partition 1: Mean=0.233, Median=0.232,  Min=0.166, Max=0.272, Standard Deviation=0.025
+
+K inducing the minimum (0.166): [3] 
+K inducing the maximum (0.272): [10] 
+
+Base partition 2: Mean=0.237, Median=0.234,  Min=0.198, Max=0.281, Standard Deviation=0.02
+
+K inducing the minimum (0.198): [7] 
+K inducing the maximum (0.281): [3] 
+
